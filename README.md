@@ -1,2 +1,2 @@
-# hamm-xfce.github.io
+# http://hamm-xfce.github.io
 plex
